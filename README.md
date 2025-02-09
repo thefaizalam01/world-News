@@ -64,6 +64,20 @@ Acknowledgements
 World News API for providing the news data.
 
 Inspiration and support from the open-source community.
+Installation
+
+Clone this repository:
+
+git clone https://github.com/thefaizalam01/world-news.git
+
+Navigate to the project directory:
+
+cd world-news
+
+Open index.html in your web browser:
+
+open index.html
+
 
 Contact
 
